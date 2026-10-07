@@ -25,10 +25,11 @@ I am a **DevOps & Infrastructure Engineer** passionate about automation, virtual
 Here you can check out some of my certifications:
 
 - * **[Credly Profile](https://www.credly.com/users/miguelangel-luna):** Certifications.
+- * **[Omada Certified Network Administrator (OCNA)](https://training.tp-link.com/):** Certifications.
 
 Cisco Certified Network Professional (CCNP R&S) (CSCO10325802) 
 Cisco Certified Academy Instructor (CCAI) (ID: 5410476847760)
-Omada Certified Network Administrator (OCNA) 
+Omada Certified  
 Grandstream Certified Specialist (GCS) 
 Fortinet Certified Associate / FortiGate Operator v7.6 | Fortinet
 Networking & UC | Grandstream 
