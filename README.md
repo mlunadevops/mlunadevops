@@ -24,16 +24,13 @@ I am a **DevOps & Infrastructure Engineer** passionate about automation, virtual
 ### 📌 Cloud Certifications & Learning Profiles
 Here you can check out some of my certifications:
 
+- * **[Cisco Certified Network Professional (CCNP R&S) (CSCO10325802)](https://www.credly.com/users/miguelangel-luna):** Certifications.
 - * **[Credly Profile](https://www.credly.com/users/miguelangel-luna):** Certifications.
 - * **[Omada Certified Network Administrator (OCNA)](https://training.tp-link.com/):** Certifications.
-
-Cisco Certified Network Professional (CCNP R&S) (CSCO10325802) 
-Cisco Certified Academy Instructor (CCAI) (ID: 5410476847760)
-Omada Certified  
-Grandstream Certified Specialist (GCS) 
-Fortinet Certified Associate / FortiGate Operator v7.6 | Fortinet
-Networking & UC | Grandstream 
-
+- * **[Grandstream Certified Specialist (GCS)](https://academy.grandstream.com/):** Certifications.
+- * **[Networking & UC | Grandstream](https://academy.grandstream.com/):** Certifications.
+- * **[Cisco Certified Academy Instructor (CCAI) ](https://www.netacad.com/es/):** Certifications.
+- * **[Fortinet Certified Associate / FortiGate Operator v7.6 | Fortinet ](https://training.fortinet.com/):** Certifications.
 
 ---
 
