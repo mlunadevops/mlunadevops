@@ -22,9 +22,9 @@ I am a **DevOps & Infrastructure Engineer** passionate about automation, virtual
 ---
 
 ### 📌 Cloud Certifications & Learning Profiles
-Here you can check out some of my core projects:
+Here you can check out some of my certifications:
 
-- **[Devops](https://github.com/mlunadevops/Devops):** Process automation and task scripting with PowerShell.
+- **[Credly Profile]([https://www.google.com](https://www.credly.com/users/miguelangel-luna)):** Process automation and task scripting with PowerShell.
 
 Cisco Certified Network Professional (CCNP R&S) (CSCO10325802) 
 Cisco Certified Academy Instructor (CCAI) (ID: 5410476847760)
@@ -33,7 +33,6 @@ Grandstream Certified Specialist (GCS)
 Fortinet Certified Associate / FortiGate Operator v7.6 | Fortinet
 Networking & UC | Grandstream 
 
-https://www.credly.com/users/miguelangel-luna
 
 ---
 
