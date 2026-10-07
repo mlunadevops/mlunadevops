@@ -24,6 +24,8 @@ I am a **DevOps & Infrastructure Engineer** passionate about automation, virtual
 ### 📌 Cloud Certifications & Learning Profiles
 Here you can check out some of my core projects:
 
+- **[Devops](https://github.com/mlunadevops/Devops):** Process automation and task scripting with PowerShell.
+
 Cisco Certified Network Professional (CCNP R&S) (CSCO10325802) 
 Cisco Certified Academy Instructor (CCAI) (ID: 5410476847760)
 Omada Certified Network Administrator (OCNA) 
@@ -31,13 +33,7 @@ Grandstream Certified Specialist (GCS)
 Fortinet Certified Associate / FortiGate Operator v7.6 | Fortinet
 Networking & UC | Grandstream 
 
-
-
-
-- **[Devops](https://github.com/mlunadevops/Devops):** Process automation and task scripting with PowerShell.
-- **[Proxmox-Server](https://github.com/mlunadevops/Proxmox-Server):** Configuration and management of Proxmox environments using Shell[cite: 1].
-- **[pfsense-ha-cluster](https://github.com/mlunadevops/pfsense-ha-cluster):** High-availability implementation for pfSense firewalls[cite: 1].
-- **[bgp-networking-portfolio](https://github.com/mlunadevops/bgp-networking-portfolio):** Border Gateway Protocol case studies using GNS3[cite: 1].
+https://www.credly.com/users/miguelangel-luna
 
 ---
 
